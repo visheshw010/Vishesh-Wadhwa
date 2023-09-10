@@ -1,6 +1,6 @@
 # Hi there , I'm Vishesh!
-<img align= "left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=Visheshw010&show_icons=true&theme=radical" />
-<img align= "left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshw010&layout=compact" />
+<kbd><img align= "left" width= "47%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Visheshw010&show_icons=true&theme=radical" />
+<img align= "left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshw010&layout=compact" /></kbd>
 
 
 
